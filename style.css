@@ -1,0 +1,40 @@
+body{
+    margin-top: -20px;
+    margin-left: 0;
+    font-family: "Comic Sans MS",cursive;
+}
+
+header{
+    background: #9933FF;
+
+}
+h1{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+footer{
+    clear: both;
+    background: #9933FF;
+}
+h4{
+    text-align: center;
+}
+main{
+    width: 580px;
+    margin: 0 auto;
+    border: #000000 thin solid;
+}
+.add_cat{
+    width: 700px;
+    margin: 0 auto;
+    border: black thin solid;
+}
+.add_cat_1{
+    width: 290px;
+    float: left;
+    border:black thin solid ;
+}
+.input_cat{
+    width: 400px;
+    float: left;border: black thin solid;
+}
